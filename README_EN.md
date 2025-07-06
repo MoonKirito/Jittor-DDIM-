@@ -1,6 +1,6 @@
 # Jittor-DDIM
 
-**English| [简体中文](./README_CN.md)** 
+**English| [简体中文](./README.md)** 
 
 ![Project Status](https://img.shields.io/badge/status-completed-brightgreen) ![Python](https://img.shields.io/badge/python-3.10-blue) ![Jittor](https://img.shields.io/badge/jittor-1.3.7.0-red) ![License](https://img.shields.io/badge/license-MIT-blue)
 
